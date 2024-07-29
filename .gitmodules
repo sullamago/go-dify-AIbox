@@ -1,0 +1,6 @@
+[submodule "dify"]
+	path = dify
+	url = git@github.com:langgenius/dify.git
+[submodule "inference"]
+	path = inference
+	url = git@github.com:xorbitsai/inference.git
